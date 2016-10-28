@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1020test</string>
+    <string name="textView">床前明月光，疑似地上霜，舉頭望明月，低頭思故鄉。</string>
+    <string name="textView2">英雄聯盟的趣事</string>
+    <string name="textView3">我是林義凱，身高176cm、體重56kg，我的興趣是看電影、聽音樂、發呆</string>
+    <string name="button">返回</string>
+    <string name="button2">返回</string>
+</resources>
